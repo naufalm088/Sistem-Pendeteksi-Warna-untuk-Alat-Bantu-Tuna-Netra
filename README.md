@@ -93,14 +93,6 @@ Bobot model terbaik sudah tersedia di `models/best_model.pth`, jadi aplikasi dap
 └── scripts/              # skrip pendukung
 ```
 
-## Tim
-
-Kelompok Malam B - Project Akhir Pengolahan Citra Digital, STT Wastukancana Purwakarta
-
-- Ananda Nur Hafidz
-- Mutiara Shella Widiaanggraeni
-- Mutiara Shelly Widia Anggraeni
-
 ## Atribusi Dataset
 
 Dataset AI4C Fashion Color (2024) digunakan sebagai data utama pelatihan model:
